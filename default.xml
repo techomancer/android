@@ -19,7 +19,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="Techomancer/android" />
+  <project path="android" name="Techomancer/android" remote="github" />
 
 <project path="device/samsung/p6800"
     name="Techomancer/android_device_samsung_p6800" 
