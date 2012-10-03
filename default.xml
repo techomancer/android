@@ -24,6 +24,7 @@
   <project path="device/samsung/p6810" name="techomancer/android_device_samsung_p6810"  />
   <project path="device/samsung/i815" name="techomancer/android_device_samsung_i815" />
   <project path="device/samsung/smdk4210-tab" name="techomancer/android_device_samsung_smdk4210-tab" />
+  <project path="vendor/samsung" name="techomancer/proprietary_vendor_samsung" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
