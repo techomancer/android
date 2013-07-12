@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="techomancer/android_kernel_samsung_smdk4210" path="kernel/samsung/smdk4210" remote="github" revision="jellybean" />
+  <project path="device/samsung/p6800" name="techomancer/android_device_samsung_p6800" remote="github" revision="jellybean" />
+  <project path="device/samsung/p6810" name="techomancer/android_device_samsung_p6810" remote="github" revision="jellybean" />
+  <project path="device/samsung/i815" name="techomancer/android_device_samsung_i815" remote="github" revision="jellybean" />
+  <project path="vendor/samsung" name="techomancer/proprietary_vendor_samsung" remote="github" revision="jellybean" />
+  <project path="device/samsung/smdk4210-tab" name="techomancer/android_device_samsung_smdk4210-tab" remote="github" revision="jellybean" />  
+</manifest>
